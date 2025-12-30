@@ -1,3 +1,0 @@
-D:/TestWinKeyPress/cmake-build-release/CMakeFiles/app.dir
-D:/TestWinKeyPress/cmake-build-release/CMakeFiles/edit_cache.dir
-D:/TestWinKeyPress/cmake-build-release/CMakeFiles/rebuild_cache.dir
